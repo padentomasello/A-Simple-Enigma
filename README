@@ -1,5 +1,12 @@
-The files here are a suggested skeleton for your solution.  Change
-them in any way you want, as long as the command
+This directory contains Paden Tomasello's CS61B project 0. The project specification can be found at:
+
+https://inst.eecs.berkeley.edu/~cs61b/fa12/labs/proj0.pdf
+
+*Note: This project was compiled on UC Berkeley's instructional machines and may need additional resources to compile and run. 
+
+
+
+To run, type the command
 
      java enigma.Main
 
