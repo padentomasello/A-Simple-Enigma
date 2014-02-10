@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 55
+
+
+Machine.class
+Main.class
+Reflector.class
+Rotor.class
+
+END
